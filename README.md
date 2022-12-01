@@ -19,7 +19,7 @@ Implementation of Donut
 
 Gradio web demo is available! [![Demo](https://img.shields.io/badge/Demo-Gradio-brightgreen)](#demo) [![Demo](https://img.shields.io/badge/Demo-Colab-orange)](#demo)
 |:--:|
-|![image](misc/screenshot_gradio_demos.png)|
+|![image](misc/Gradio_Demo.png)|
 - You can run the demo with `./app.py` file.
 - Images are not uploaded due to the privacy issue.
 - Web demo is available from the link in the following table.
