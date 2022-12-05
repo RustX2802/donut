@@ -26,7 +26,7 @@ Gradio web demo is available! [![Demo](https://img.shields.io/badge/Demo-Gradio-
 
 |Task|Sec/Img|Score|Trained Model|<div id="demo">Demo</div>|
 |---|---|---|---|---|
-| [Insurance] (Document Parsing)   |   0.7 |  91.3 | [donut-base-finetuned-insurance](https://huggingface.co/RustX/donut-base-finetuned-insurance) | [gradio space web demo](https://huggingface.co/spaces/RustX/donut-base-finetuned-insurance),<br>[google colab demo](https://colab.research.google.com/drive/1HRof7YZBsdJB3BEu-4PSOlRZH60vX1O8?usp=sharing) |
+| [Insurance] (Document Parsing)   |   0.7 |  91.3 | [donut-base-finetuned-insurance](https://huggingface.co/RustX/donut-base-finetuned-insurance) | [gradio space web demo](https://huggingface.co/spaces/RustX/donut-base-finetuned-insurance),<br>[google colab demo](https://github.com/RustX2802/donut/blob/main/Donut_Final.ipynb) |
 
 ## Getting Started
 
